@@ -1,0 +1,6 @@
+--2021-05-18 12:18:06--  https://cdn-api.co-vin.in/api/v2/appointment/sessions/public/calendarByPin?pincode=560077
+Resolving cdn-api.co-vin.in (cdn-api.co-vin.in)... 52.84.6.12, 52.84.6.29, 52.84.6.121, ...
+Connecting to cdn-api.co-vin.in (cdn-api.co-vin.in)|52.84.6.12|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2021-05-18 12:18:06 ERROR 403: Forbidden.
+
