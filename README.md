@@ -1,5 +1,17 @@
+# Covid Vaccine Tracker
+
+A tool to poll Cowin website and notify when slots are open for vaccination in chosen centres
+
+## Tech Stack
+
+* Python
+* Asyncio
+* Aiohttp
+* Scheduler
+* Json
 
 ## References
+
 * https://docs.aiohttp.org/en/stable/client_quickstart.html
 * https://stackoverflow.com/questions/46991562/how-to-reuse-aiohttp-clientsession-pool
 ## Notes
