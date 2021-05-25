@@ -1,0 +1,20 @@
+.idea
+__pycache__
+**__pycache__**
+*.pyc
+dist
+build
+downloads
+__pycache__/
+*.py[cod]
+.env
+venv/
+sample-users.txt
+
+# SQLite database files
+
+*.sqlite3
+
+
+
+
